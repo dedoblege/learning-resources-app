@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import StoredResources from './components/learning-resource/StoredResources.vue';
+import StoredResources from './components/learning-resources/StoredResources.vue';
 export default {
   components: {
     StoredResources
